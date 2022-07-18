@@ -4,11 +4,9 @@
 [![Linkedin Follow](https://shields.io/badge/Follow%20@Rajat%20Nai-1483-green?logo=linkedin&style=for-the-badge )](https://www.linkedin.com/in/rajat-nai-5a1425221/)
 ![](https://komarev.com/ghpvc/?username=vasu-1&style=for-the-badge)
 
-<details>
-  <summary> <b> 🏃 Current Status </b></summary>
-- 👋 Hi, I’m @rajatnai49
-- 👀 I’m interested in experience new thing in tech
-- 🌱 I’m currently learning c and c++
+- 👀 I’m interested in experience new thing in Development.
+- 🌱 I’m currently learning DSA & DBMS
 - 💞️ I’m looking to collaborate ...
-- 📫 You will reach me by my email rajatnai49@gmail.com
-</details>
+- 🖥️ You will reach me by my email rajatnai49@gmail.com
+  
+
