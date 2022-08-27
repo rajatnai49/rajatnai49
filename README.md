@@ -10,17 +10,15 @@
 - 🖥️ You will reach me by my email rajatnai49@gmail.com
   
   
-
-<img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=rajatnai49&show_icons=true&theme=vision-friendly-dark&hide_border=true">
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=rajatnai49&theme=vision-friendly-dark&hide_border=true">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatnai49&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php">
+<table>
+  <tr>
+    <td><img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=rajatnai49&show_icons=true&theme=vision-friendly-dark&hide_border=true"> </td>
+    <td><img src ="https://github-readme-streak-stats.herokuapp.com?user=rajatnai49&theme=vision-friendly-dark&hide_border=true"> </td>
+  </tr>
+</table>
+  
 <img src="https://activity-graph.herokuapp.com/graph?username=rajatnai49&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" >
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatnai49&theme=nord&show_icons=true&locale=en&layout=compact" alt="rajatnai49" /></p>
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatnai49&theme=nord&show_icons=true&locale=en" alt="rajatnai49" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatnai49&theme=nord&" alt="rajatnai49" /></p>
-
      
 
 [<img alt="https://rajatnai49.github.io/portfolio2/"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
