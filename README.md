@@ -13,8 +13,8 @@
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatnai49&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php">
 <table>
   <tr>
-    <td><img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=rajatnai49&show_icons=true&theme=vision-friendly-dark&hide_border=true"> </td>
-    <td><img src ="https://github-readme-streak-stats.herokuapp.com?user=rajatnai49&theme=vision-friendly-dark&hide_border=true"> </td>
+    <td widht="100%"><img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=rajatnai49&show_icons=true&theme=vision-friendly-dark&hide_border=true"> </td>
+    <td  widht="100%"><img src ="https://github-readme-streak-stats.herokuapp.com?user=rajatnai49&theme=vision-friendly-dark&hide_border=true"> </td>
   </tr>
 </table>
   
