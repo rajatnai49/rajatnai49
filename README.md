@@ -19,7 +19,8 @@
 [<img alt="https://rajatnai49.github.io/portfolio2/"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
 [<img alt="rajat | Instagram"  src="https://img.shields.io/badge/Personal-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img alt="rajat | Instagram"  src="https://img.shields.io/badge/Creative-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram2]
-[![Twitter Follow](https://img.shields.io/twitter/follow/rpsilver36?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+<a href="https://twitter.com/rpsilver36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajatnai49" height="30" width="40" /></a>
+<a href="https://leetcode.com/rajatnai49/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajatnai49" height="30" width="40" /></a>
 
 [website]: https://rajatnai49.github.io/portfolio2/
 [twitter]: https://twitter.com/rpsilver36
