@@ -3,10 +3,10 @@
 [![Website](https://shields.io/badge/Portfolio-up-blue?style=for-the-badge)](https://rajatnai49.github.io/portfolio2/)
 ![](https://komarev.com/ghpvc/?username=rajatnai49&style=for-the-badge)
 
-- 👀 I’m interested in experience new thing in Development.
+- 👀 I’m interested to experience new things in Development.
 - 🌱 I’m currently learning DSA & DBMS
 - 💞️ I’m looking to collaborate ...
-- 🖥️ You will reach me by my email rajatnai49@gmail.com
+- 🖥️ You can reach me by my email rajatnai49@gmail.com
   
   
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatnai49&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php">
