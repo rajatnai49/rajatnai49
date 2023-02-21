@@ -8,12 +8,6 @@
 - 💞️ I’m looking to collaborate ...
 - 🖥️ You can reach me by my email rajatnai49@gmail.com
 
-     
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/rpsilver36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajatnai49" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rp._.836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajatnai49" height="30" width="40" /></a>
-<a href="https://leetcode.com/rajatnai49/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rp._.836" height="30" width="40" /></a>
-<a href="https://instagram.com/rp._.836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rp._.836" height="30" width="40" /></a>
 
 <h3 align="left">Coding Chaos</h3>
 <p>
