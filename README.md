@@ -6,9 +6,20 @@
 <table >
      <tr> 
           <th><img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/6.gif" width="40" height="40"></th>
-          <th><h4>Fire like Charizard</h4></th>
+          <th><div align="left"><h4> Proud in my skill and constantly seeking for new and challenging things to do.</h4></div></th>
      </tr>
-     
+     <tr> 
+          <th><img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/254.gif" width="40" height="40"></th>
+          <th><div align="left"><h4> Very agile and efficient in developing web project.</h4></div></th>
+     </tr>
+     <tr> 
+          <th><img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/395.gif" width="40" height="40"></th>
+          <th><div align="left"><h4> Makes friends with the other very easily. Very headstrong, fierce, determined, and hates losing.</h4></div></th>
+     </tr>
+     <tr> 
+          <th><img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/282.gif" width="40" height="40"></th>
+          <th><div align="left"><h4> Create small loop hole to solve problem immediately.</h4></div></th>
+     </tr>
 </table>
 
 <h3 align="left">Coding Chaos</h3>
