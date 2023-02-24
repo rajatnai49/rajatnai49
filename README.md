@@ -1,12 +1,15 @@
+<div align="center"> 
+          <img src="https://user-images.githubusercontent.com/96529504/221206994-feb41918-cb9a-487b-ac82-237923445c4b.gif" width="60" height="60"/>
+          <h1>Gin</h1>
+</div>
 
-
-##![7766-blobpokemon](https://user-images.githubusercontent.com/96529504/221206994-feb41918-cb9a-487b-ac82-237923445c4b.gif)Silver <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
-
-- 👀 I’m interested to experience new things in Development.
-- 🌱 I’m currently learning DSA & DBMS
-- 💞️ I’m looking to collaborate ...
-- 🖥️ You can reach me by my email rajatnai49@gmail.com
-
+<table >
+     <tr> 
+          <th><img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/6.gif" width="40" height="40"></th>
+          <th><h4>Fire like Charizard</h4></th>
+     </tr>
+     
+</table>
 
 <h3 align="left">Coding Chaos</h3>
 
