@@ -1,4 +1,6 @@
-## Hi there, I'm Rajat Nai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
+
+
+##![7766-blobpokemon](https://user-images.githubusercontent.com/96529504/221206994-feb41918-cb9a-487b-ac82-237923445c4b.gif)Silver <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
 
 - 👀 I’m interested to experience new things in Development.
 - 🌱 I’m currently learning DSA & DBMS
