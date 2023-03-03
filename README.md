@@ -2,25 +2,11 @@
           <img src="https://user-images.githubusercontent.com/96529504/221206994-feb41918-cb9a-487b-ac82-237923445c4b.gif" width="60" height="60"/>
           <h1>Gin</h1>
 </div>
+<h6><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Proud in my skill and constantly seeking for new and challenging things to do.</h6>
+<h6><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Very agile and efficient in developing web project.</h6>
+<h6><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Makes friends with the other very easily. Very headstrong, fierce, determined, and hates losing.</h6>
+<h6><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Create small loop hole to solve problem immediately.</h6>
 
-<table >
-     <tr> 
-          <th><img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/6.gif" width="40" height="40"></th>
-          <th><div align="left"><h4> Proud in my skill and constantly seeking for new and challenging things to do.</h4></div></th>
-     </tr>
-     <tr> 
-          <th><img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/254.gif" width="40" height="40"></th>
-          <th><div align="left"><h4> Very agile and efficient in developing web project.</h4></div></th>
-     </tr>
-     <tr> 
-          <th><img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/395.gif" width="40" height="40"></th>
-          <th><div align="left"><h4> Makes friends with the other very easily. Very headstrong, fierce, determined, and hates losing.</h4></div></th>
-     </tr>
-     <tr> 
-          <th><img src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/282.gif" width="40" height="40"></th>
-          <th><div align="left"><h4> Create small loop hole to solve problem immediately.</h4></div></th>
-     </tr>
-</table>
 
 <h3 align="left">Coding Chaos</h3>
 
@@ -67,19 +53,18 @@
 
 <h5>Connect with me!!</h5>
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white)
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=Freelancer&logoColor=white)
-
+<a href="https://rajatnai49.github.io/portfolio2/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139"/></a>
+<a href="mailto:rajatnai49@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/rajatnai49/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06"/></a>
+<a href="https://twitter.com/rpsilver36"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rajat-nai-5a1425221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://exercism.org/profiles/rajatnai49"><img src="https://img.shields.io/badge/Exercism-009CAB?style=flat-square&logo=exercism&logoColor=white"/></a>
+<!-- <a href=""><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white"/></a> -->
+<!-- <a href=""><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/></a> -->
+<!-- <a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white"/></a> -->
+<!-- <a href=""><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/></a> -->
+<!-- <a href=""><img src="https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white"/></a> -->
+<!-- <a href=""><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=Freelancer&logoColor=white"/></a> -->
      
   
   <details> 
