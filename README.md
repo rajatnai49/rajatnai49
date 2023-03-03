@@ -2,10 +2,10 @@
           <img src="https://user-images.githubusercontent.com/96529504/221206994-feb41918-cb9a-487b-ac82-237923445c4b.gif" width="60" height="60"/>
           <h1>Gin</h1>
 </div>
-<h6><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Proud in my skill and constantly seeking for new and challenging things to do.</h6>
-<h6><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Very agile and efficient in developing web project.</h6>
-<h6><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Makes friends with the other very easily. Very headstrong, fierce, determined, and hates losing.</h6>
-<h6><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Create small loop hole to solve problem immediately.</h6>
+<h5><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Proud in my skill and constantly seeking for new and challenging things to do.</h5>
+<h5><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Very agile and efficient in developing web project.</h5>
+<h5><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Makes friends with the other very easily. Very headstrong, fierce, determined, and hates losing.</h5>
+<h5><img src="https://github.com/d4mation/pokeball-availability/blob/master/src/images/beastball.png" height="20px" width="20px" style="float:left"/>Create small loop hole to solve problem immediately.</h5>
 
 
 <h3 align="left">Coding Chaos</h3>
@@ -67,15 +67,14 @@
 <!-- <a href=""><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=Freelancer&logoColor=white"/></a> -->
      
   
-  <details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+ <h3>📊 Github Stats and Activity</h3>
 
-  <h3>🔥 Streak Stats</h3>
+  <h4>🔥 Streak Stats</h4>
   <p>
       <img src ="https://github-readme-streak-stats.herokuapp.com?user=rajatnai49&theme=monokai-metallian&hide_border=true"> 
   </p>
   
-  <h3>💻 GitHub Profile Stats</h3>
+  <h4>💻 GitHub Profile Stats</h4>
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rajatnai49's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rajatnai49&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rajatnai49's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rajatnai49&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
@@ -85,16 +84,4 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rajatnai49's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rajatnai49&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
 
-</details>
-
 ![](https://komarev.com/ghpvc/?username=rajatnai49&style=flat-square)
-
-[website]: https://rajatnai49.github.io/portfolio2/
-[twitter]: https://twitter.com/rpsilver36
-[instagram]: https://www.instagram.com/rp._.836/
-[instagram2]: https://www.instagram.com/its_rp36/
-[linkedin]: https://www.instagram.com/rp._.836/
-[codechef]: https://www.codechef.com/users/rp_836
-[hackerrank]: https://www.hackerrank.com/rajatnai72
-[github]: https://github.com/rajatnai49
-[leetcode]: https://leetcode.com/rajatnai49/
