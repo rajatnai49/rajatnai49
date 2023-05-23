@@ -6,8 +6,8 @@
 <h5>Odyssey through the vast and ever-evolving realm of computer science!</h5>
 <h5>Trying to find peace in the overwhelming coding chaos.</h5>
 <h5>I'm delighted to lend a hand in web development.</h5>
-<h5>Currently diving in data science and cloud.</h5>
-<h6>Sharing something on <a href="https://rajatnai.hashnode.dev/">Silver Surfer</a> </h6>
+<h5>Currently diving into data science and cloud.</h5>
+<h6>Sharing learning on <a href="https://rajatnai.hashnode.dev/">Silver Surfer</a> </h6>
 <h6>Active on <a href="https://twitter.com/rpsilver36">@rpsilver36</a> </h6>
 </div>
     
