@@ -2,7 +2,7 @@
   <h3>  🧑‍💻  Current Status</h3>
   <p>Odyssey through the vast and ever-evolving realm of computer science! Trying to find peace in the overwhelming coding chaos. I'm delighted to lend a hand in web development. Currently exploring data science and cloud.</p>
 </blockquote>
-
+<h6>More About <a href="https://itsgin-3e6f6.web.app/">Me</a> </h6>
 <h6>Sharing learning on <a href="https://rajatnai.hashnode.dev/">Silver Surfer</a> </h6>
 <h6>Find me on <a href="https://twitter.com/rpsilver36">@rpsilver36</a> </h6>
     
