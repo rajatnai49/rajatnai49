@@ -1,9 +1,30 @@
 [
-  "I refuse your refusal. \n-Monkey D Luffy",
-  "It's beauty in the STRUGGLE ugliness in SUCCESS. \n-J. Cole",
-  "More Money, more Power more Freedom, I deserve it all. \n-Kendrik Lamar",
-  "Done tryna to be perfect, that shit is exhausting. \n-J. Cole",
-  "Wake up to Reality, Nothing goes planned in this cursed world. \n-Madara Uchiha",
-  "No such thing as a life that is better than yours. \n-J. Cole",
-  "I got POWER, PASSION, PAIN and JOY inside my DNA. \n-Kendrik Lamar"
+  {
+    "quote": "I refuse your refusal.",
+    "author": "Monkey D. Luffy"
+  },
+  {
+    "quote": "It's beauty in the struggle, ugliness in success.",
+    "author": "J. Cole"
+  },
+  {
+    "quote": "More money, more power, more freedom. I deserve it all.",
+    "author": "Kendrick Lamar"
+  },
+  {
+    "quote": "Done tryna be perfect, that shit is exhausting.",
+    "author": "J. Cole"
+  },
+  {
+    "quote": "Wake up to reality. Nothing goes as planned in this cursed world.",
+    "author": "Madara Uchiha"
+  },
+  {
+    "quote": "No such thing as a life that's better than yours.",
+    "author": "J. Cole"
+  },
+  {
+    "quote": "I got power, poison, pain and joy inside my DNA.",
+    "author": "Kendrick Lamar"
+  }
 ]
