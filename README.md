@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-I got power, poison, pain and joy inside my DNA.
+Done tryna be perfect, that shit is exhausting.
 <br>
-<i>— Kendrick Lamar</i>
+<i>— J. Cole</i>
 <!-- QUOTE_END -->
 </blockquote>
 
