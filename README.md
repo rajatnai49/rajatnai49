@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-No such thing as a life that's better than yours.
+I got power, poison, pain and joy inside my DNA.
 <br>
-<i>— J. Cole</i>
+<i>— Kendrick Lamar</i>
 <!-- QUOTE_END -->
 </blockquote>
 
