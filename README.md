@@ -1,6 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-I Refuse your Refusal.
+No such thing as a life that's better than yours.
+<br>
+<i>— J. Cole</i>
 <!-- QUOTE_END -->
 </blockquote>
 
