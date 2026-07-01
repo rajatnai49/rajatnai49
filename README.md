@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-Done tryna be perfect, that shit is exhausting.
+I refuse your refusal.
 <br>
-<i>— J. Cole</i>
+<i>— Monkey D. Luffy</i>
 <!-- QUOTE_END -->
 </blockquote>
 
