@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-I refuse your refusal.
+More Money, more Power, more Freedom. I deserve it ALL.
 <br>
-<i>— Monkey D. Luffy</i>
+<i>— Kendrick Lamar</i>
 <!-- QUOTE_END -->
 </blockquote>
 
