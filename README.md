@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-More Money, more Power, more Freedom. I deserve it ALL.
+It's beauty in the STRUGGLE, ugliness in SUCCESS.
 <br>
-<i>— Kendrick Lamar</i>
+<i>— J. Cole</i>
 <!-- QUOTE_END -->
 </blockquote>
 
