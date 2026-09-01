@@ -1,6 +1,6 @@
 <blockquote>
 <!-- QUOTE_START -->
-It's beauty in the STRUGGLE, ugliness in SUCCESS.
+No such thing as a life that's better than yours.
 <br>
 <i>— J. Cole</i>
 <!-- QUOTE_END -->
