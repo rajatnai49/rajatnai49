@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-It's beauty in the STRUGGLE, ugliness in SUCCESS.
+I refuse your refusal.
 <br>
-<i>— J. Cole</i>
+<i>— Monkey D. Luffy</i>
 <!-- QUOTE_END -->
 </blockquote>
 
