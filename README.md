@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-I refuse your refusal.
+I choose me, I'm sorry.
 <br>
-<i>— Monkey D. Luffy</i>
+<i>— Kendrick Lamar</i>
 <!-- QUOTE_END -->
 </blockquote>
 
