@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-I choose me, I'm sorry.
+I'm beginning to feel like a Rap God.
 <br>
-<i>— Kendrick Lamar</i>
+<i>— Eminem</i>
 <!-- QUOTE_END -->
 </blockquote>
 
