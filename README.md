@@ -1,6 +1,6 @@
 <blockquote>
 <!-- QUOTE_START -->
-I'm beginning to feel like a Rap God.
+You can do anything you set your mind to, man.
 <br>
 <i>— Eminem</i>
 <!-- QUOTE_END -->
