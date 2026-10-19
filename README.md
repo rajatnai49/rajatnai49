@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-You can do anything you set your mind to, man.
+No such thing as a life that's better than yours.
 <br>
-<i>— Eminem</i>
+<i>— J. Cole</i>
 <!-- QUOTE_END -->
 </blockquote>
 
