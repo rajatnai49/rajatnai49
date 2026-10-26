@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-No such thing as a life that's better than yours.
+I'm tryna make it out.
 <br>
-<i>— J. Cole</i>
+<i>— JID</i>
 <!-- QUOTE_END -->
 </blockquote>
 
