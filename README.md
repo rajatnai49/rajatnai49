@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-I'm tryna make it out.
+We gon' be alright.
 <br>
-<i>— JID</i>
+<i>— Kendrick Lamar</i>
 <!-- QUOTE_END -->
 </blockquote>
 
