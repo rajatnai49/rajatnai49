@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-We gon' be alright.
+The only real reason that you feel pressure is 'cause you let yourself feel it.
 <br>
-<i>— Kendrick Lamar</i>
+<i>— J. Cole</i>
 <!-- QUOTE_END -->
 </blockquote>
 
