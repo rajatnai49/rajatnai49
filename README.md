@@ -1,8 +1,8 @@
 <blockquote>
 <!-- QUOTE_START -->
-The only real reason that you feel pressure is 'cause you let yourself feel it.
+I choose me, I'm sorry.
 <br>
-<i>— J. Cole</i>
+<i>— Kendrick Lamar</i>
 <!-- QUOTE_END -->
 </blockquote>
 
