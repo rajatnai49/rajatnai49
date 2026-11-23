@@ -1,6 +1,6 @@
 <blockquote>
 <!-- QUOTE_START -->
-I choose me, I'm sorry.
+I got loyalty, got royalty inside my DNA.
 <br>
 <i>— Kendrick Lamar</i>
 <!-- QUOTE_END -->
